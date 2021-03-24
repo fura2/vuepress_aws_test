@@ -1,0 +1,23 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vuepressawstest-master-231552-authRole",
+            "UnauthRoleArn": "arn:aws:iam::393806634206:role/amplify-vuepressawstest-master-231552-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::393806634206:role/amplify-vuepressawstest-master-231552-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-vuepressawstest-master-231552-deployment",
+            "UnauthRoleName": "amplify-vuepressawstest-master-231552-unauthRole",
+            "StackName": "amplify-vuepressawstest-master-231552",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:393806634206:stack/amplify-vuepressawstest-master-231552/75046290-8cab-11eb-a456-064efe5344ab",
+            "AmplifyAppId": "d38ndvcxvuspxe"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d38ndvcxvuspxe",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}

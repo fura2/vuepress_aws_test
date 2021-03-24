@@ -1,0 +1,17 @@
+{
+  "projectName": "vuepressawstest",
+  "version": "3.1",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "none",
+    "config": {
+      "SourceDir": "docs",
+      "DistributionDir": "docs/.vuepress/dist",
+      "BuildCommand": "yarn docs:build",
+      "StartCommand": "yarn docs:dev"
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
