@@ -11,8 +11,10 @@ module.exports = {
 	],
 	themeConfig: {
 		sidebar: [
-			['/', 'Home'],
-			'sub'
+			'/',
+			'/sub/',
+			'/sub/subsub1/',
+			'/sub/subsub2/'
 		]
 	}
 }
