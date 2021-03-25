@@ -1,7 +1,7 @@
 # vuepress_aws_test
 
-本文1
+This succulent is so lovely!
 
 ![](icon.jpg)
 
-本文2
+**This succulent is so lovely!!**

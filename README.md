@@ -1,7 +1,3 @@
 # vuepress_aws_test
 
-本文1
-
-![](icon.jpg)
-
-本文2
+This repository is for testing VuePress + AWS Amplify hosting.
