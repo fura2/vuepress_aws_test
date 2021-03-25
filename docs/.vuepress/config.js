@@ -11,10 +11,20 @@ module.exports = {
 	],
 	themeConfig: {
 		sidebar: [
-			'/',
-			'/sub/',
-			'/sub/subsub1/',
-			'/sub/subsub2/'
+			{
+				title: 'Home',
+				path: '/',
+				collapsable: false
+			},
+			{
+				title: 'sub',
+				path: '/sub/',
+				collapsable: false,
+				children: [
+					'/sub/subsub1/',
+					'/sub/subsub2/'
+				]
+			}
 		]
 	}
 }
